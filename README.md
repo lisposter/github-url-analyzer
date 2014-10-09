@@ -31,6 +31,21 @@ console.log(analyzer(str));
 // 'https://github.com/user/project/archive/v0.2.2.tar.gz'
 ```
 
+eg.
+
+```js
+var analyzer = require('github-url-analyzer');
+
+console.log(analyzer('lisposter/github-url-analyzer'));
+
+// { 
+//     repo: 'https://github.com/lisposter/github-url-analyzer',
+//     https: 'https://github.com/lisposter/github-url-analyzer.git',
+//     ssh: 'git@github.com:lisposter/github-url-analyzer.git',
+//     git: 'git://github.com/lisposter/github-url-analyzer.git' 
+// }
+```
+
 ## License
 
 MIT © [Leigh Zhu](#)
