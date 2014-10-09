@@ -1,0 +1,24 @@
+{
+  "name": "github-url-analyzer",
+  "version": "0.1.0",
+  "description": "analyze srting to github urls",
+  "main": "index.js",
+  "dependencies": {
+  },
+  "devDependencies": {
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/lisposter/github-url-analyzer.git"
+  },
+  "bugs": {
+    "url": "https://github.com/lisposter/github-url-analyzer/issues"
+  },
+  "homepage": "https://github.com/lisposter/github-url-analyzer",
+  "keywords": ["github","url","parser","normalize", "repo"],
+  "author": "Leigh Zhu",
+  "license": "MIT"
+}
