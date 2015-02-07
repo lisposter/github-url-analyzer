@@ -1,7 +1,7 @@
 # github-url-analyzer
 [![NPM version](https://img.shields.io/npm/v/github-url-analyzer.svg?style=flat)](https://www.npmjs.org/package/github-url-analyzer)
 
-analyze srting to github urls
+analyze srting to normal github project urls
 
 ## Installation
 
