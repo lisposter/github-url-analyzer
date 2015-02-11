@@ -1,5 +1,6 @@
 'use strict';
 
+// url samples
 // 'user/project',
 // 'git://github.com/user/project#commit-ish',
 // 'git://github.com/user/project.git#commit-ish',
