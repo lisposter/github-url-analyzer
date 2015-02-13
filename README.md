@@ -48,4 +48,4 @@ console.log(analyzer('lisposter/github-url-analyzer'));
 
 ## License
 
-MIT © [Leigh Zhu](#)
+MIT © [Leigh Zhu](http://zhu.li)
